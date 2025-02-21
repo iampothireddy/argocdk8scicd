@@ -1,1 +1,1 @@
-# argocdk8scicd
+# mindcircuit13 - SAMPLE APP
