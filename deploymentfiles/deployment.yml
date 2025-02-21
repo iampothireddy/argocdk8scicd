@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: cicd/prxyz:2
+        image: cicd/prprxyz:3
         ports:
         - containerPort: 8080
 
